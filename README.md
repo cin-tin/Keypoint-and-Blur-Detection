@@ -31,7 +31,7 @@ This project aims to:
 
 ## Installation
 
-### ** Clone the Repository**
+### ** Clone the Repository **
 ```bash
-git clone [https://github.com/yourusername/keypoint-detection-classification.git](https://github.com/cin-tin/Keypoint-and-Blur-Detection.git)
+git clone https://github.com/cin-tin/Keypoint-and-Blur-Detection.git
 cd Keypoint-and-Blur-Detection
