@@ -27,8 +27,9 @@ This project aims to:
   - Supports processing multiple videos efficiently.
 
 ---
-
-
+**Example Video**:
+  The repository includes an example video from the AI4Bharat Sign Language dataset INCLUDE, demonstrating the detection and classification of keypoints
+---
 ## Installation
 
 ### **Clone the Repository**
